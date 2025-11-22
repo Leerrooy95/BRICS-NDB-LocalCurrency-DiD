@@ -20,6 +20,3 @@ MINT (Mexico, Indonesia, Nigeria, Turkey) – similar emerging-market profile, n
 - Permutation inference (10k reshuffles of treatment timing)
 
 One-click reproducible → `python analysis.py`
-
-Topics to add on GitHub:  
-`brics` `brics-plus` `new-development-bank` `de-dollarization` `local-currency` `difference-in-differences` `emerging-markets` `econometrics` `python`
